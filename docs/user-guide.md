@@ -4,7 +4,7 @@
 
 Hachier is a mobile app designed to provide a native look and feel for interacting with Home Assistant. It is not a replacement for the Home Assistant client but acts as a remote for quick access to frequently used objects and functionalities.
 
-The application is free, open-source, and experimental. Use it at your own risk. We cannot be held responsible for any consequences resulting from bugs or issues within the app. Hachier is not endorsed or supported by Home Assistant. Personally, I use Hachier as a remote for quick actions (especially when Siri fails to understand my commands), such as checking cameras, controlling the TV, arming/disarming the alarm, or opening/closing secured doors that voice commands cannot handle.
+The application is free and experimental. Use it at your own risk. We cannot be held responsible for any consequences resulting from bugs or issues within the app. Hachier is not endorsed or supported by Home Assistant. Personally, I use Hachier as a remote for quick actions (especially when Siri fails to understand my commands), such as checking cameras, controlling the TV, arming/disarming the alarm, or opening/closing secured doors that voice commands cannot handle.
 
 Key Features
 

@@ -72,8 +72,10 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 
-.history
+.history/
 
 ios/.env.default
 ios/hachier.app.dSYM.zip
 ios/fastlane
+
+android/fastlane

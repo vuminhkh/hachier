@@ -6,7 +6,27 @@ We value your privacy and are committed to protecting your personal information.
 
 ## Disclaimer
 
-The application is free, open-source, and experimental. Use it at your own risk. We cannot be held responsible for any consequences resulting from bugs or issues within the app. Hachier is not endorsed or supported by Home Assistant.
+The application is free and experimental. Use it at your own risk. We cannot be held responsible for any consequences resulting from bugs or issues within the app. Hachier is not endorsed or supported by Home Assistant.
+
+## Permissions
+
+Hachier request the following permissions to enhance your user experience:
+
+### Notification
+
+Hachier will notify you when your Home Assistant server goes offline and if you have enabled periodic health checks.
+
+### Photo Library
+
+Hachier requires access to your photo library to allow you to associate photos from your library with dashboard entities.
+
+### Camera
+
+Hachier requires access to your camera to enable you to capture photos of objects and associate them with dashboard entities.
+
+### Microphone
+
+Hachier requires access to your microphone to support bidirectional audio communication with your camera via WebRTC.
 
 ## Data Collection
 
